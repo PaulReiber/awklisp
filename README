@@ -1,4 +1,14 @@
-See the Manual file for documentation.
+I forked this repo mainly so I can find it quickly.
+
+Darius Bacon's one heck of an awk programmer.  What he's done here shows
+very clearly how capable awk really is - the tasks that most people use
+it for barely exercise its power.
+
+See the Manual file for documentation on awklisp, and enjoy reviewing
+the source code!
+-PBR
+
+-----------------------------------------------------------------------
 
 This release also has a Perl version, perlisp, contributed by the Perl
 Avenger, who writes:
